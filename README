@@ -1,0 +1,20 @@
+
+
+    Cinnamon Extension Gnome2AltTab
+        
+        - What is it?
+            
+            This cinnamon extension is a alt-tab alternative based on the original Gnome3 alt-tab.
+            It is altered to look more like the oldskool Gnome2 alt-tab.
+            
+        - What is diffrent about this alt-tab?
+        
+            Like the old alt-tab interface it has thumbnails with small icons in a multirow grid.
+            
+        - How do i install it?
+        
+            First copy the folder "gnome2alttab@savagetiger.org" to "~/.local/share/cinnamon/extensions/"
+            Second enable the extension in the cinnamon settings interface
+            
+            Note: you must restart cinnamon to use this extension, Press ALT+F2, in the inputfield type 'r' and
+            hit enter
